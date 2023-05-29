@@ -22,7 +22,7 @@ Clone the repository:
 
 shell
 Copy code
-
+https://github.com/AlphaLock/Classification-Project-Predicting-Customer-Churn.git
 Install the required dependencies:
 
 shell
