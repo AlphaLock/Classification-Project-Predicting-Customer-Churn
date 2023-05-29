@@ -1,6 +1,4 @@
 # Classification-Project-Predicting-Customer-Churn
-
-Telco Customer Churn Analysis
 This repository contains code and resources for analyzing customer churn in a telecommunications company (Telco). The project aims to predict customer churn and understand the demographic composition of churned customers compared to non-churned customers.
 
 Table of Contents
