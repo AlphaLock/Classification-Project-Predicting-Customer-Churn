@@ -45,3 +45,6 @@ Visualizations, including stacked bar charts, to present the results.
 Contributing
 Contributions to this project are welcome. If you have any suggestions, improvements, or bug fixes, please open an issue or submit a pull request.
 
+# Author
+Richmond Abake
+
